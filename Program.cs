@@ -21,7 +21,7 @@ namespace Bank
                         ListAccounts();
                         break;
                     case "2":
-                        InsertAccounts();
+                        InsertAccount();
                         break;
                     case "3":
                         Transfer();
